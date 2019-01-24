@@ -107,7 +107,7 @@ It's because it's missing the brackets. There should be one opening after the wh
 
 ## Exercise 0.22
 > Use for-loops to print "hourglasses" of different sizes. Enter your code here:
-
+I couldn't figure this in time. I got it to print the the top half of the while loop but the bottom half I couldn't do
 
 ```
 // Paste your program here
